@@ -1,4 +1,4 @@
-package blog.oneminute.spring.boot;
+package com.timesofcloud.spring.boot;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
