@@ -1,4 +1,4 @@
-package blog.oneminute.spring.boot;
+package com.timesofcloud.spring.boot;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
